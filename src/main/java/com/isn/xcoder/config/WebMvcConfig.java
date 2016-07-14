@@ -1,4 +1,4 @@
-package com.xvitcoder.springmvcangularjs.config;
+package com.isn.xcoder.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -13,11 +13,11 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import java.util.List;
 
 /**
- * Created by xvitcoder on 12/24/15.
+ * Created by xcoder on 12/24/15.
  */
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "com.xvitcoder.springmvcangularjs")
+@ComponentScan(basePackages = "com.isn.xcoder")
 @Import({ThymeleafConfig.class})
 public class WebMvcConfig extends WebMvcConfigurerAdapter {
 

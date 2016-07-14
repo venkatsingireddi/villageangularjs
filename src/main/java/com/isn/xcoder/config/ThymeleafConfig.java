@@ -1,4 +1,4 @@
-package com.xvitcoder.springmvcangularjs.config;
+package com.isn.xcoder.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

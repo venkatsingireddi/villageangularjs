@@ -1,5 +1,5 @@
-spring-mvc-angularjs
-====================
+villageapp-on-angularjs
+=======================
 
 A simple application to demonstrate how to configure Angularjs with Spring MVC
 
@@ -10,9 +10,9 @@ It uses the AngularJS-Seed with some modifications to allow Spring MVC load the 
 I also included the bootstrap library for a better UI.
 
 Run Local (Embedded Tomcat):
-----------------
+----------------------------
   - execute: *mvn tomcat7:run*
-  - Then open the URL: http://localhost:8080/spring-mvc-angularjs
+  - Then open the URL: http://localhost:8080/villageangularjs
 
 Run inside tomcat container
 -----------------------------
@@ -20,4 +20,10 @@ Package it with maven
 
   - execute: *mvn clean package*
   - copy the result war file into your tomcat/webapp folder
-  - Then open the URL: http://localhost:8080/spring-mvc-angularjs
+  - Then open the URL: http://localhost:8080/villageangularjs
+ 
+ For more information registter at http://nakrekal.herokuapp.com
+----------------------------------------------------------------
+
+drop a mail to : sini.venkatreddy@gmail.com
+ 

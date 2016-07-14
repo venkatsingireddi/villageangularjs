@@ -1,6 +1,6 @@
-package com.xvitcoder.springmvcangularjs.service;
+package com.isn.xcoder.service;
 
-import com.xvitcoder.springmvcangularjs.beans.RailwayStation;
+import com.isn.xcoder.beans.RailwayStation;
 
 import java.util.List;
 
